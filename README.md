@@ -2,7 +2,7 @@
   <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
 </p>
 <h1 align="center">
-  <b>Ultroid - UserBot</b>
+  <b>Ultroid - UserBt</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>   
@@ -96,7 +96,7 @@ Further, take a look at the [`docs`](https://blue-devil1134.github.io/UltroidCli
 Different ways to get your `SESSION`:
 * [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
 * Linux : `bash -c "$(curl -fsSL https://git.io/JY9JI)"`
-* PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
+* PowerShell : `cd desktop; wget https://git.io/JY9JI ; python ultroid.py`
 * Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
 * TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
 
